@@ -1,0 +1,3 @@
+[submodule "ChildRepo1"]
+	path = ChildRepo1
+	url = https://github.com/adelSalah78/ChildRepo1
